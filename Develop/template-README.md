@@ -1,5 +1,5 @@
 
-  # README-Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  # README-generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description
   With this application you can quickly and easily generate a README file by using a command-line application to generate one.
@@ -33,7 +33,7 @@
   No contributions needed for now.
 
   ## Tests
-  Work in Progress 🚧
+  Work in Progress🚧
 
   ## Questions
   Github: <https://github.com/AndyAnza> 
