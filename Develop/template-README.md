@@ -13,7 +13,8 @@
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [URL](#url)
+  - [How to Contribute](#contribute)
+  - [Tests](#tests)
   - [Questions](#Questions)
 
   ## Installation
