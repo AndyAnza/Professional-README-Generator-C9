@@ -41,11 +41,6 @@ const questions = [
     message:'CREDITS: List your collaborators, if any, with links to their GitHub profiles. If you followed tutorials, include links to those here as well ➡ ',
     },
     {
-    type: 'input',
-    name: 'github',
-    message:'GITHUB: Enter your github account so that people contact you if they have questions about your project ➡ ',
-    },
-    {
     type: 'list',
     name: 'license',
     message: 'Choose your license  ➡ ',
@@ -60,6 +55,11 @@ const questions = [
     type: 'input',
     name: 'tests',
     message:'TESTS: Go the extra mile and write tests for your application. Then provide examples on how to run them here ➡ ',
+    },
+    {
+    type: 'input',
+    name: 'github',
+    message:'GITHUB: Enter your github account so that people contact you if they have questions about your project ➡ ',
     },
     {
     type: 'input',

@@ -1,8 +1,8 @@
 
-  # Project-Title [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  # README-Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description
-  Provide a short description explaining the what, why, and how of your project.
+  With this application you can quickly and easily generate a README file by using a command-line application to generate one.
 
   ## URL
   https://andyanza.github.io/Professional-README-Generator-C9/
@@ -13,28 +13,27 @@
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [How-to-Contribute](#contribute)
-  - [Tests](#tests)
-  - [Questions](#questions)
+  - [URL](#url)
+  - [Questions](#Questions)
 
   ## Installation
-  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+  git clone this repository on your computer. Open VS code -> open the index.js file in your terminal -> run npm install inquirer -> then run node index.
 
   ## Usage
-  Provide instructions and examples for use. Include screenshots as needed.
+  Answer all the questions in the command line and your readme file will be generated with your input inside the template-README.md file.
   ![alt text](assets/images/screenshot.png)
 
   ## Credits
-  List your collaborators, if any, with links to their GitHub profiles.
+  N/A
 
   ## License
   MIT
 
   ## How to Contribute
-  If you created an application or package and would like other developers to contribute it.
+  No contributions needed for now.
 
   ## Tests
-  Go the extra mile and write tests for your application.
+  Work in Progress 🚧
 
   ## Questions
   Github: <https://github.com/AndyAnza> 
