@@ -13,8 +13,8 @@
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [URL](#url)
-  - [Questions](#Questions)
+  - [How-to-Contribute](#how-to-contribute)
+  - [Questions](#questions)
 
   ## Installation
   git clone this repository on your computer. Open VS code -> open the index.js file in your terminal -> run npm install inquirer -> then run node index.
@@ -27,9 +27,9 @@
   N/A
 
   ## License
-  MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
-  ## How to Contribute
+  ## How-to-Contribute
   No contributions needed for now.
 
   ## Tests

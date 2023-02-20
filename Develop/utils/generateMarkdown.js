@@ -33,8 +33,8 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [URL](#url)
-  - [Questions](#Questions)
+  - [How-to-Contribute](#how-to-contribute)
+  - [Questions](#questions)
 
   ## Installation
   ${data.installation}
@@ -47,9 +47,9 @@ function generateMarkdown(data) {
   ${data.credits}
 
   ## License
-  ${data.license}
+  ${licenseBadge(data.license)}
 
-  ## How to Contribute
+  ## How-to-Contribute
   ${data.contribute}
 
   ## Tests
