@@ -13,7 +13,7 @@
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [How to Contribute](#contribute)
+  - [How to Contribute](#How to Contribute)
   - [Tests](#tests)
   - [Questions](#Questions)
 
