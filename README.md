@@ -1,6 +1,4 @@
 # Professional-README-Generator
-
-## Description
 With this application you can quickly and easily generate a README file by using a command-line application to generate one.
 
 ## Video
